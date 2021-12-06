@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://pbs.twimg.com/media/Erh9GtGXYAETLkU?format=jpg&name=900x900" alt="Xeon" width="170" />
+<img src="https://pbs.twimg.com/profile_images/1036356177288937472/3TOEeQDt_400x400.jpg?format=jpg&name=900x900" alt="Xeon" width="170" />
 
-## Doge Bot
+## 𝐒𝐢𝐛𝐮 𝐁𝐨𝐭
 
 </div>
 
